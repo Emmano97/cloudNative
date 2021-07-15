@@ -1,1 +1,1 @@
-# nd064_C1
+# Udacity Suse Cloud  Native course resources
